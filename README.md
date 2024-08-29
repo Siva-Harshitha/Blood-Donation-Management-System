@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/114dc44f-6db9-48e8-bd62-3e6626901ef8
+
 This project is mainly towards the people who are willing to donate blood.
 Through this system it will be easier to find a donor for exact blood type and easy to build the connection between donor and the Receiver.
 I have tried to maintain all that information of donor which is easily understandable to doctors and receivers which makes them easy to find the donor .
