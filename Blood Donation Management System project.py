@@ -4,7 +4,6 @@ from tkinter import messagebox, ttk
 import tkinter as tk
 from PIL import Image, ImageTk
 
-
 class Home:
     def __init__(self, root):
         self.root = root
